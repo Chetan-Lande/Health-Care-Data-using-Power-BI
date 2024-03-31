@@ -1,4 +1,6 @@
-![image](https://github.com/Chetan-Lande/Health-Care-Data-using-Power-BI/assets/160496624/ba87bfda-5fb7-4e62-b3da-9748482444ed)![image](https://github.com/Chetan-Lande/Health-Care-Data-using-Power-BI/assets/160496624/2aca8ad5-d9b0-4ce6-a96c-3390fac5a285)By creating new columns from using the data of previous columns enhance our model , remove the unwanted columns that not used for our model.
+![image](https://github.com/Chetan-Lande/Health-Care-Data-using-Power-BI/assets/160496624/fac5dee7-f0f9-4102-9cbd-d2781fa613e1)
+
+By creating new columns from using the data of previous columns enhance our model , remove the unwanted columns that not used for our model.
 By using DAX function calculates the new measures, that helps in statistical analysis of dataset.
 
 By deploying various tools in Power BI , we can showcase the dataset . In various fields , by using this we can easily analysis the dataset , and make our insights of dataset.
